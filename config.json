@@ -1,0 +1,7 @@
+{
+    "NODES": ["https://api.steemit.com"],
+    "TAG": "cn",
+    "start_date":"2018-09-12",
+    "end_date":"2018-09-19",
+    "output_name":"reports/{}_{}_{}.csv"
+  }
